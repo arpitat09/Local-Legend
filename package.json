@@ -5,9 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "NODE_ENV=development tsx server/index.ts",
-    "client": "vite",
-    "build": "vite build",
-    "start": "NODE_ENV=production node dist/index.cjs"
+    "client": "vite"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
