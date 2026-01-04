@@ -3,7 +3,6 @@
 Local Legend is a full-stack web application designed to promote and support local businesses and communities. The platform allows users to explore local marketplaces, discover community-driven content, and interact with a modern, responsive user interface.
 
 =======================================================================================================
-
 **🔗 Live Project:**
 
 👉 https://local-legend-frontend.onrender.com/
