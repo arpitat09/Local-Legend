@@ -62,10 +62,11 @@ Tools:
 ## 🧩 Project Structure
 
 Local-Legend/
-├── frontend/
-├── backend/
-├── public/
-├── package.json
+│
+├── frontend/ # Client-side code
+├── backend/ # Server-side logic & APIs
+├── public/ # Static assets
+├── package.json # Dependencies
 └── README.md
 
 ---
